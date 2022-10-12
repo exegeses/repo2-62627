@@ -4,3 +4,10 @@
 
 > Estamos crear un nuevo repositorio para práctica con github  
 
+
+## Creamos una rama
+[]  git branch nombreRama
+
+    git branch feat-navegacion
+
+
